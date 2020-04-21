@@ -9,5 +9,11 @@ public class HomeTest {
 		
 		System.out.println("Home test method");
 	}
+	
+	@Test
+	public void homeTest1() {
+		
+		System.out.println("homeTest1 method");
+	}
 
 }
